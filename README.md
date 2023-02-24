@@ -1,7 +1,7 @@
 # basic_aplikasi_flutter
 
 A new Flutter project.
-
+![SS](images/SS1.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
