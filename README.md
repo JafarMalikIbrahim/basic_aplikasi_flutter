@@ -1,7 +1,7 @@
 # basic_aplikasi_flutter
 
-A new Flutter project.
-![SS](images/SS1.png)
+ScreenShoot
+![WhatsApp Image 2023-03-08 at 07 58 13](https://user-images.githubusercontent.com/92065895/223592245-08094776-d0a9-4e38-8b48-b09a778b0ece.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
